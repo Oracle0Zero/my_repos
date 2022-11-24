@@ -10,6 +10,6 @@ public class App
     {
         int a = 10;
         int b = 40;
-        System.out.println( "Hllo oWorl frm DevOps!" );
+        System.out.println( "Hello World from DevOps!!" );
     }
 }
